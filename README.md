@@ -8,5 +8,5 @@ Artificial mind переводится как "Исскуственный раз
 
 ### Ниже представленны два примера логотипа для нашей студии.
 
-<img src="./AM_LOGO_CUT.svg">
-<img src="./AM_LOGO_SIMPLE.svg">
+<img src="./src/img/logo/AM_LOGO_CUT.svg">
+<img src="./src/img/logo/AM_LOGO_SIMPLE.svg">
